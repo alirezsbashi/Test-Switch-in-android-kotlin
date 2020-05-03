@@ -1,3 +1,4 @@
 Test Switch in android kotlin
 <br>
-تست switch در اندروید با کاتلین ازمایش تم تاریک و روشن
+تست<p dir="rtl> switch </p>در اندروید با کاتلین ازمایش تم تاریک و روشن
+<br>
